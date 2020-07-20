@@ -9,7 +9,7 @@
 
 ## Search Keywords
 
-Search keywords are key-value paired, where keys refer to the search terms and the values are the number of tweets to return in correspondance to the search term.
+Search keywords are key-value paired, where keys refer to the search terms and the values are the number of tweets to return in correspondance with the search term.
 
 Configure your desired search terms, the default are:
 
