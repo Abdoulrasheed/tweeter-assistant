@@ -1,4 +1,4 @@
-# Simple Twitter Bot
+# Simple Twitter Bot [FUN PROJECT]
 
 ## Usage
 
